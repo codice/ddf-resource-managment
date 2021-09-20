@@ -38,7 +38,7 @@
     </licenses>
     <properties>
          <!-- Must MANUALLY update this if the codice-maven project's version changes -->
-         <apache.shiro.version>1.4.2</apache.shiro.version>
+         <apache.shiro.version>1.8.0</apache.shiro.version>
          <camel.version>2.24.2</camel.version>
          <codice-maven.version>0.2</codice-maven.version>
          <commons-lang3.version>3.9</commons-lang3.version>
